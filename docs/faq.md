@@ -18,3 +18,5 @@ topic modeling to HTML-code to extract topics of code, then it becomes important
 ## **Can I use the GPU to speed up the model?**
 Yes! Since KeyBERT uses embeddings as its backend, a GPU is actually prefered when using this package. 
 Although it is possible to use it without a dedicated GPU, the inference speed will be significantly slower. 
+
+
